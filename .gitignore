@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Audio & media
+*.wav
+*.mp3
+
+# Model files
+*.pth
+*.pt
+*.onnx
+
+# Environment variables
+.env
+
+# Cache
+cache/
