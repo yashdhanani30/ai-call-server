@@ -1,0 +1,4 @@
+[console_scripts]
+hf-cli = hf_cli:main
+hf-mirror-cli = hf_cli:main
+huggingface-cn-cli = hf_cli:main

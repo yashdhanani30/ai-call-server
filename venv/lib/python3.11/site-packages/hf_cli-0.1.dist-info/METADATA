@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: hf-cli
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: tqdm
+Requires-Dist: GitPython
+Requires-Dist: transformers
+Requires-Dist: argparse
+Requires-Dist: urllib3
+
